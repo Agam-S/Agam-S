@@ -2,7 +2,7 @@
 # 💫 About Me:
 - 🌱 I’m currently learning **Java at RMIT (Bachelors of IT)**
 
-- 👨‍💻 All of my projects and experiences are available at [https://example.com/](https://example.com/)
+- 👨‍💻 All of my projects and experiences are available at [my portfolio!](https://agam-singh.netlify.app/)
 
 - 💬 Ask me about **MERN/MEAN stack.**
 
