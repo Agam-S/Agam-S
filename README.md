@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)](https://github.com/Agam-S)
 # 💫 About Me:
-🔭 I’m currently working on a private chat app<br>👯 I’m looking to collaborate on any personal/side projects<br>🌱 I’m currently doing second year of Bach. Information Technology<br>👨‍💻 Some of my projects and experiences are available at [my portfolio!](https://agam-singh.netlify.app/)<br>📫 How to reach me singh.agam0009@gmail.com
+🔭 I’m currently working on a private chat app<br>👯 I’m looking to collaborate on any personal/side projects<br>🌱 I’m currently doing second year of Bach. Information Technology<br>👨‍💻 Some of my projects and experiences are available at [my portfolio!](https://portfolio-agam-singh.netlify.app/)<br>📫 How to reach me singh.agam0009@gmail.com
 
 
 ## 🌐 Socials:
