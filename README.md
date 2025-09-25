@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">✨ Creating bugs since 4 years.<br>📚 I'm currently learning Machine Learning/Cyber Sec.<br>🎯 Goals: Making a Invoice generator app<br>🎲 Fun fact: You can see some of my projects at my 
+<p align="center">✨ Creating bugs since 4 years.<br>📚 I'm currently learning iOS apps.<br>🎯 Goals: Make a health app that helps via using AI<br>🎲 Fun fact: You can see some of my projects at my 
   <a href="https://agam-s.netlify.app/" target="_blank">
   Portfolio
   </a>
