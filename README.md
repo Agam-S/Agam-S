@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is Agam Singh and I'm a Full Stack Developer, currently in my third year studying Bachelors of Information Technology.</p>
+<p align="center">My name is Agam Singh and I'm a Full Stack Developer</p>
 
 ###
 
