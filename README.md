@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on **Fun little projects**
 
-- 🌱 I'm currently learning **Cybersecurity course**
+- 🌱 I'm currently learning **Cybersecurity**
 
 - 👨‍💻 All of my projects are available at **[https://agam-s.netlify.app/](https://agam-s.netlify.app/)**
 
